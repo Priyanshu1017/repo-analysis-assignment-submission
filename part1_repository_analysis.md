@@ -1,6 +1,4 @@
 
-# part1_repository_analysis.md
-
 # Part 1: Repository Analysis
 
 ## Repository Comparison Table
